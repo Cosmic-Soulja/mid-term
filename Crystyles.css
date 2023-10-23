@@ -1,0 +1,18 @@
+/*My Custom CSS */
+
+Body{
+    background-image: img src:"../";
+    padding-top: 25px;
+}
+
+.row{
+    padding: 15px;
+    height: 300px;
+    width: 100%;
+}
+
+
+.h2{
+    color: 262163;
+}
+
